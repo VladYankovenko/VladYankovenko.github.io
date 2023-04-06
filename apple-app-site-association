@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "EFAAG9GXN4.ru.surfstudio.bethowen.debug",
-            "paths": ["*"]
+            "paths": ["/second.html", "/third.html"]
         }]
     }
 }
